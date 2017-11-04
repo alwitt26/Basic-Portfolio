@@ -1,0 +1,65 @@
+html { 
+  background: url(http://78.media.tumblr.com/tumblr_m4byzkr6sI1qjoiero1_500.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1 {text-align: center;
+	color:white;
+	background-color: black;
+	font-family:'Lobster', cursive;
+	letter-spacing: 20px;
+	text-shadow: 4px 3px 11px pink;
+	background-color: black;
+	background-width: 100%;
+	padding: 25px; 
+}
+
+nav {color:pink;
+	font-family: 'Poiret One', cursive;
+	font-size: 20px;
+	text-align: center;
+	letter-spacing: 2px;
+	background-color: black;
+	padding: 5px;
+}
+
+h2 {color: lightblue;
+	background-color: black;
+	letter-spacing:3px;
+	font-family: 'Poiret One', cursive;
+	text-decoration: underline;
+	padding: 15px;
+	float: left;
+	}
+
+p {color: white;
+	background-color: black;
+	padding: 8px;
+	font-family: 'Poiret One', cursive;
+	letter-spacing: 2px;
+	float: left;
+	}
+
+form {color: lightpink;
+	background-color: black;
+	padding: 20px;
+	font-family: 'Poiret One', cursive;
+	}
+
+textarea {color: blue}
+
+h4 {color: black;
+	font-family: 'Poiret One', cursive;
+	font-size: 20px;
+	float: left;
+	}
+
+.links {
+	float:right;
+	padding:20px;
+	border: black;
+	background-color:white;
+	height: 50px;
+	width:50px;}
